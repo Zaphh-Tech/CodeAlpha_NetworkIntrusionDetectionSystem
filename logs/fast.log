@@ -1,0 +1,3 @@
+09/26/2026-05:47:03.642785  [**] [1:1000001:1] CodeAlpha ICMP ping detected [**] [Classification: (null)] [Priority: 3] {ICMP} 10.0.2.15:8 -> 8.8.8.8:0
+09/26/2026-05:47:03.651965  [**] [1:1000004:1] CodeAlpha test signature - trigger string seen [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40001 -> 93.184.216.34:9000
+09/26/2026-05:47:03.642785  [**] [1:1000003:1] CodeAlpha suspicious admin path access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40002 -> 93.184.216.34:80
